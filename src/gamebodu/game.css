@@ -1,0 +1,71 @@
+.Button button {
+
+    color: white;
+    background: rgb(85, 81, 255);
+    font-size: xx-large;
+    border-radius: 30px;
+    padding: 10px 50px;
+
+
+
+}
+
+.Button2 button {
+    cursor: not-allowed;
+    color: white;
+    background: rgb(110, 110, 114);
+    font-size: xx-large;
+    border-radius: 30px;
+    padding: 10px 50px;
+
+
+
+}
+
+.reload {
+    font-family: Lucida Sans Unicode
+}
+
+h2 {
+    padding: 10px 50px;
+    font-size: x-large;
+    margin: 20px;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+button {
+    cursor: pointer;
+    margin: 30px;
+    color: white;
+    background: rgb(85, 81, 255);
+    font-size: xx-large;
+    border-radius: 50%;
+    padding: 20px 20px;
+
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.top {
+
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+    border-radius: 10%;
+}
